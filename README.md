@@ -3,6 +3,7 @@
 # Hi, I'm Rakesh Yadav 👋
 
 AI & DS undergrad who loves building clean UIs, robust APIs, and data‑driven apps.
+Co-Founder of [The Tech Tentacles](https://github.com/The-Tech-Tentacles)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-yadav19)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rakeshyadav___19)
